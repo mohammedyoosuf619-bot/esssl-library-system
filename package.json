@@ -1,0 +1,26 @@
+{
+  "name": "esssl-library-system",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # ESSSL Library Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedyoosuf619-bot/esssl-library-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedyoosuf619-bot/esssl-library-system/issues"
+  },
+  "homepage": "https://github.com/mohammedyoosuf619-bot/esssl-library-system#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}

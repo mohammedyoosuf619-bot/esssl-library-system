@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESSSL Library Management System 
  
 ## Quick Start 
@@ -19,3 +20,7 @@ npm start
  
 ### Login Credentials 
 - Librarian: librarian@esssl.edu / admin123 
+=======
+# esssl-library-system
+library system
+>>>>>>> 9bdbdd0c7e933963e85deb6e51d586c408bd210e
